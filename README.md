@@ -21,6 +21,8 @@
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avthetechpreneur/&title=Profile%20Views)
+[![Website](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)](https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)
+[![Twitter Follow](https://img.shields.io/twitter/follow/the_techpreneur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Favthetechpreneur&screen_name=the_techpreneur)
 
 ### About 🙋🏻‍♂️
 ```python
