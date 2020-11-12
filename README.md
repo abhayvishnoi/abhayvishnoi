@@ -65,4 +65,6 @@ religion = "🇮🇳"
 
 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [Full Stack Python & Flask Project | EDUSEARCH  - CUSTOM MADE SEARCH ENGINE WEB APP + TELEGRAM BOT](https://www.youtube.com/watch?v=T9c2CFSqEog)
+- [Python Passwword Generator |Simple Code For Powerful Passwords|God Level Encryption](https://www.youtube.com/watch?v=QLI2gIiNiDw)
 <!-- YOUTUBE:END --> 
