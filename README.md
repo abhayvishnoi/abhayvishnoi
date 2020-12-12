@@ -65,9 +65,9 @@ religion = "🇮🇳"
 
 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [12 December Business news , today's business news](https://www.youtube.com/watch?v=F9BoBEvyUm0)
 - [10 December Business and Startup News](https://www.youtube.com/watch?v=A-bd0_JLEhc)
 - [Spacex , google-facebook PIL , Uber , Calm app , Oneplus - Today's Business bits by thetechpreneur](https://www.youtube.com/watch?v=701KcCTYnlI)
 - [How google converts your data to billion dollars ?| How does google earns money - CASE STUDY](https://www.youtube.com/watch?v=mAeVjliwSYw)
 - [Full Stack Python & Flask Project | EDUSEARCH  - CUSTOM MADE SEARCH ENGINE WEB APP + TELEGRAM BOT](https://www.youtube.com/watch?v=T9c2CFSqEog)
-- [Python Passwword Generator |Simple Code For Powerful Passwords|God Level Encryption](https://www.youtube.com/watch?v=QLI2gIiNiDw)
 <!-- YOUTUBE:END --> 
