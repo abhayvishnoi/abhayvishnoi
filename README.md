@@ -65,9 +65,9 @@ religion = "🇮🇳"
 
 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [Today's Business News - Amazon,Uber   trouble, Spacex , Delhivery ,PM tells india will be a spacehub](https://www.youtube.com/watch?v=btgytYuvO-c)
 - [Todays Business & Startup news , Nokia laptop,Google Light Internet , Reddit acquire dubsmash](https://www.youtube.com/watch?v=tJfKPQmo-y8)
 - [12 December Business news , today's business news](https://www.youtube.com/watch?v=F9BoBEvyUm0)
 - [10 December Business and Startup News](https://www.youtube.com/watch?v=A-bd0_JLEhc)
 - [Spacex , google-facebook PIL , Uber , Calm app , Oneplus - Today's Business bits by thetechpreneur](https://www.youtube.com/watch?v=701KcCTYnlI)
-- [How google converts your data to billion dollars ?| How does google earns money - CASE STUDY](https://www.youtube.com/watch?v=mAeVjliwSYw)
 <!-- YOUTUBE:END --> 
