@@ -65,9 +65,9 @@ religion = "🇮🇳"
 
 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [Facebook Se Paise Kaise Kamaye ? How to earn money from faceboook |  Free Method For Earning Money](https://www.youtube.com/watch?v=-CjcBo-89kQ)
 - [How to start a blog for free ?  Best Method For Free Blog | Start  Earning Money With Medium 2021](https://www.youtube.com/watch?v=qcl5PhnR2u4)
 - [How To make money online (Students) | Ghar Baithe Online Paise Kaise Kamaye - 2021](https://www.youtube.com/watch?v=vV8ayZjUZwk)
 - [Today's Business News - Amazon,Uber   trouble, Spacex , Delhivery ,PM tells india will be a spacehub](https://www.youtube.com/watch?v=btgytYuvO-c)
 - [Todays Business & Startup news , Nokia laptop,Google Light Internet , Reddit acquire dubsmash](https://www.youtube.com/watch?v=tJfKPQmo-y8)
-- [12 December Business news , today's business news](https://www.youtube.com/watch?v=F9BoBEvyUm0)
 <!-- YOUTUBE:END --> 
