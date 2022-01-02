@@ -26,9 +26,9 @@
 
 ### About 🙋🏻‍♂️
 ```python
-name = "AV - The Techpreneur"
-what_am_i = ['Techpreneur','Developer','Coder','Engineer','Noobie']
-age = 22
+name = "Abhay Vishnoi"
+what_am_i = ['Developer','Coder','Engineer','Noobie']
+age = 23
 religion = "🇮🇳"
 ```
 
