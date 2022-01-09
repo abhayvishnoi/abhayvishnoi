@@ -1,9 +1,9 @@
-## Hi There <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi There <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA/?sub_confirmation=1"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ### Available 👇
 <p>
-  <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA">
+  <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA/?sub_confirmation=1">
     <img align="left" alt="AV YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
   <a href="https://telegram.dog/avsprojects">
@@ -15,7 +15,7 @@
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avthetechpreneur/&title=Profile%20Views)
-[![Website](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)](https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)
+[![Website](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)](https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA/?sub_confirmation=1)
 
 ### About 🙋🏻‍♂️
 ```python
