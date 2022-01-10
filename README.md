@@ -58,9 +58,9 @@ religion = "🇮🇳"
 
 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [Copilot taking over humans😶. Be careful while using co-pilot #copilot #aicode #python #shorts](https://www.youtube.com/watch?v=4h7XX2L7yVk)
 - [Get wallpaper from internet using copilot | Copilot Tricks | Copilot python  in action #python](https://www.youtube.com/watch?v=WOj1CeJ2LMo)
 - [Is Github Copilot a Joker who can make u laugh? Github Copilot tell good jokes than humans?#Copilot](https://www.youtube.com/watch?v=z51tozUciPk)
 - [Free Media Hosting | Free Hosting | Host Your Media Files For Free MediaHost Telegram Bot - IMG, gif](https://www.youtube.com/watch?v=bvKdBcVZefc)
 - [Full Stack Python &amp; Flask Project | EDUSEARCH  - CUSTOM MADE SEARCH ENGINE WEB APP + TELEGRAM BOT](https://www.youtube.com/watch?v=T9c2CFSqEog)
-- [Python Passwword Generator |Simple Code For Powerful Passwords|God Level Encryption](https://www.youtube.com/watch?v=QLI2gIiNiDw)
 <!-- YOUTUBE:END --> 
