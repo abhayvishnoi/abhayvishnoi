@@ -43,7 +43,6 @@ religion = "🇮🇳"
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
 </br>
 </br>
 
