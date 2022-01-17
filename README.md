@@ -27,8 +27,7 @@ religion = "🇮🇳"
 
 
 ### Skills 👨‍💻
-
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+<img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="Node" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="Heroku" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
