@@ -18,6 +18,8 @@
 [![Website](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)](https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA/?sub_confirmation=1)
 
 ### About 🙋🏻‍♂️
+    <img align="left" alt="AV Telegram" src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif"/>
+
 ```python
 name = "Abhay Vishnoi"
 what_am_i = ['Developer','Coder','Engineer','Noobie']
