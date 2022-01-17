@@ -4,10 +4,10 @@
 ### Available 👇
 <p>
   <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA/?sub_confirmation=1">
-    <img align="left" alt="AV YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+    <img align="left" alt="AV YouTube" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://telegram.dog/avsprojects">
-    <img align="left" alt="AV Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  <a href="https://telegram.dog/thetechpreneur">
+    <img align="left" alt="AV Telegram" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
   </a>
 </p>
 </br>
