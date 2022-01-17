@@ -28,19 +28,21 @@ religion = "🇮🇳"
 
 ### Skills 👨‍💻
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
-<img align="left" alt="Node" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/node-dot-js.svg" />
-<img align="left" alt="Heroku" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
-<img align="left" alt="Wordpress" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/wordpress.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
-<img align="left" alt="Illustrator" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/adobeillustrator.svg" />
+<img src="data:image/png;base64,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"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+
 </br>
 </br>
 
