@@ -51,7 +51,7 @@ religion = "🇮🇳"
 
 ### Stats ⚡️
 
-![Github Stats](https://readmestats.vercel.app/api?username=abhayvishnoi&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+![Github Stats](https://readmestats.vercel.app/api?username=abhayvishnoi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)
 
 ### My Langs ❤️
 
