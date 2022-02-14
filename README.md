@@ -1,7 +1,7 @@
 ## Hi There <a href="https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
 ### Available 👇
+
 <p>
   <a href="https://twitter.com/the_techpreneur">
     <img align="left" alt="AV Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
@@ -19,19 +19,18 @@
 </br>
 </br>
 
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avthetechpreneur/&title=Profile%20Views)
 [![Website](https://img.shields.io/website?label=youtube.com&style=for-the-badge&url=https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)](https://www.youtube.com/channel/UCUXqHoKTMtk1jpViwNpbTBA)
 [![Twitter Follow](https://img.shields.io/twitter/follow/the_techpreneur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Favthetechpreneur&screen_name=the_techpreneur)
 
 ### About 🙋🏻‍♂️
+
 ```python
 name = "AV - The Techpreneur"
 what_am_i = ['Techpreneur','Developer','Coder','Engineer','Noobie']
 age = 22
 religion = "🇮🇳"
 ```
-
 
 ### Skills 👨‍💻
 
@@ -52,7 +51,6 @@ religion = "🇮🇳"
 </br>
 </br>
 
-
 ### Stats ⚡️
 
 ![Github Stats](https://readmestats.vercel.app/api?username=avthetechpreneur&show_icons=true&title_color=00FFC9&icon_color=00FFC9&text_color=ffffff&bg_color=000000&count_private=true&include_all_commits=true)
@@ -63,6 +61,7 @@ religion = "🇮🇳"
 
 ---
 
-📺 Latest Youtube Videos 
+📺 Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END --> 
+<!-- YOUTUBE:END -->
